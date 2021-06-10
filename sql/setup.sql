@@ -1,0 +1,6 @@
+CREATE TABLE dogs (
+  id BIGINT PRIMARY KEY NOT NULL,
+  name TEXT NOT NULL,
+  age TEXT NOT NULL, 
+  weight TEXT
+);
